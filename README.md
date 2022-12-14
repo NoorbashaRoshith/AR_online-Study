@@ -11,7 +11,8 @@ This is a web based application developed for online studying purpose the way to
 
 ## Project Opportunity
 The ed-tech industry produced 65% of all global revenue in 2022 as a result of the explosive expansion. The EdTech industry not only offers engaging, adaptable learning and training materials from premier course providers but also aids students in finding better employment possibilities.
-
+## Project Description 
+The purpose of this website who have gain the skills about the online we have provided. This have been only offer engaging, adaptin learning and training content videos for free or paid available. Courses available like Data Science, Machine Learning, Artificial Intelligence,UI/UX developemnt, Web Development etc.. . Also provided 24/7 Live chat,Phone calls availabe for any quires.
 ## Azure technologies used for Project
 
 - Static web apps
@@ -27,6 +28,7 @@ The ed-tech industry produced 65% of all global revenue in 2022 as a result of t
 - Included the feedback Survey form to increase the scope of improvement 
 - Included the live chat with 24/7
 - Included the chatbots 
+- Student can choose the course selection and it's details.
 
 ## Home
 
