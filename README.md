@@ -10,7 +10,7 @@ This is a web based application developed for online studying purpose the way to
 **project demo video link** - 
 
 ## Project Opportunity
-The ed-tech industry produced 65% of all global revenue in 2021 as a result of the explosive expansion. The EdTech industry not only offers engaging, adaptable learning and training materials from premier course providers but also aids students in finding better employment possibilities.
+The ed-tech industry produced 65% of all global revenue in 2022 as a result of the explosive expansion. The EdTech industry not only offers engaging, adaptable learning and training materials from premier course providers but also aids students in finding better employment possibilities.
 
 ## Azure technologies used for Project
 
@@ -38,7 +38,6 @@ The ed-tech industry produced 65% of all global revenue in 2021 as a result of t
 
 ### About Us -
 
-
 ![about1](https://user-images.githubusercontent.com/120404707/207607686-ac623b59-0ff8-4bea-9d90-d39f3239e05d.jpg)
 
 ![about2](https://user-images.githubusercontent.com/120404707/207607715-62b7b4da-264d-4915-9252-9d6ed572d093.jpg)
@@ -52,6 +51,7 @@ The ed-tech industry produced 65% of all global revenue in 2021 as a result of t
 ![course2](https://user-images.githubusercontent.com/120404707/207608050-7dc664c8-94ec-4cea-ad6c-c373c6b2dd41.jpg)
 
 ### Contact us -
+
 ![contact us1](https://user-images.githubusercontent.com/120404707/207607793-12194969-76c6-4261-b45a-ab2506fc107c.jpg)
 
 ![contact2](https://user-images.githubusercontent.com/120404707/207607908-0e0a1c15-1ac8-4d9d-9da2-c454db8827d0.jpg)
