@@ -25,7 +25,7 @@ This is a web based application developed for online studying purpose the way to
 - Included the live chat with 24/7
 - Included the chatbots 
 
-## Screenshots
+## Home
 
 
 
