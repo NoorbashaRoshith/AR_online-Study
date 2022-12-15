@@ -7,7 +7,7 @@ This is a web based application developed for online studying purpose the way to
 
 
 **Project Link** - https://red-beach-096a64310.2.azurestaticapps.net/index.html
-**project demo video link** - 
+**project demo video link** - https://youtu.be/ErIP_u8mb6U
 
 ## Project Opportunity
 The ed-tech industry produced 65% of all global revenue in 2022 as a result of the explosive expansion. The EdTech industry not only offers engaging, adaptable learning and training materials from premier course providers but also aids students in finding better employment possibilities.
