@@ -6,7 +6,7 @@ This is a web based application developed for online studying purpose the way to
 ### This web based EDUCATION/ONLINE EDUCATION application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://red-beach-096a64310.2.azurestaticapps.net/index.html
+**Project Link** - https://salmon-bush-0e8b22410.2.azurestaticapps.net
 **project demo video link** - https://youtu.be/ErIP_u8mb6U
 
 ## Project Opportunity
