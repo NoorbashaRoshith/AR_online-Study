@@ -1,5 +1,5 @@
 
-# ✨ AR Online Study✨
+# ✨ EduSphere ✨
 
 This is a web based application developed for online studying purpose the way to learn any where to enroll and learn our course to related based website in india
 
@@ -10,9 +10,15 @@ This is a web based application developed for online studying purpose the way to
 **project demo video link** - https://youtu.be/ErIP_u8mb6U
 
 ## Project Opportunity
-The ed-tech industry produced 65% of all global revenue in 2022 as a result of the explosive expansion. The EdTech industry not only offers engaging, adaptable learning and training materials from premier course providers but also aids students in finding better employment possibilities.
+EduSphere addresses the need for accessible, high-quality online education in India by offering interactive courses, real-time support, and personalized learning, thereby enhancing students' skills for better employment opportunities.
 ## Project Description 
-The purpose of this website who have gain the skills about the online we have provided. This have been only offer engaging, adaptin learning and training content videos for free or paid available. Courses available like Data Science, Machine Learning, Artificial Intelligence,UI/UX developemnt, Web Development etc.. . Also provided 24/7 Live chat,Phone calls availabe for any quires.
+Interactive and Responsive UI: Ensures a seamless user experience across devices.
+Personalized Dashboards: Allows users to track their learning progress and receive course recommendations.
+AI-Powered Chatbot and 24/7 Support: Provides real-time assistance through chatbots and live support.
+Virtual Classrooms and Discussion Forums: Facilitates live learning sessions and peer interactions.
+Feedback Mechanism: Incorporates detailed feedback forms to continuously improve the platform.
+Regular Content Updates and Guest Lectures: Keeps the learning material current and relevant.
+Accessibility Enhancements: Ensures inclusivity with multilingual support and adherence to accessibility standards.
 ## Azure technologies used for Project
 
 - Static web apps
